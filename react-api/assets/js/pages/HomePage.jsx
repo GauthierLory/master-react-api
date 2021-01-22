@@ -3,7 +3,7 @@ import React from 'react';
 export default function HomePage(props){
     return (
         <>
-        <section className="section" id="content">
+            <section className="section" id="content">
                 <h1 className="title"> Content </h1>
                 <div className="content">
                     <h1> Hello World </h1>
@@ -87,9 +87,8 @@ export default function HomePage(props){
                         sodales quis. Aliquam eu nibh in libero accumsan pulvinar. Nullam nec nisl placerat, pretium
                         metus vel, euismod ipsum. Proin tempor cursus nisl vel condimentum. Nam pharetra varius metus
                         non pellentesque. </p>
-                    </div>
-        </section>
+                </div>
+            </section>
         </>
     );
 };
-
